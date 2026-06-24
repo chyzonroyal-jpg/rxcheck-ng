@@ -1,2 +1,2 @@
-# rxcheck-ng
-AI-powered medication safety checker for Nigeria
+# smartrx-ng
+Medication Safety and Duplication Checker for Nigeria
